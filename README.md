@@ -80,7 +80,8 @@ In this task, you will build a simple express-based NodeJS application which res
 
 - nano package.json
 
-{
+<div
+ {
   "name": "helloworld",
   "description": "Simple hello world sample in Node",
   "version": "1.0.0",
@@ -93,7 +94,8 @@ In this task, you will build a simple express-based NodeJS application which res
   "dependencies": {
     "express": "^4.17.1"
   }
-}
+} 
+/>
 
 Most importantly, the file above contains a start script command and a dependency on the Express web application framework.
 
